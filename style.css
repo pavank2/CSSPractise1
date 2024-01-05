@@ -7,19 +7,20 @@ h1 {
 }
 
 img {
-    display: block;
-    width: 100%;
-    border-width: 10 px;
-    border-color: blue; 
+
+    margin-left: 5%;
+    width: 90%;
+    border: 5 px solid red;
 }
 
 p {
     font-style: helvetica;
     font-size: xx-large;
     text-align: center;
+    color: white;
 }
 div {
     margin-left: 25%;
     width: 50%;
-    
+    background-color: black;  
 }
