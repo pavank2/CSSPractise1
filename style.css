@@ -17,8 +17,9 @@ img {
 }
 
 p {
-    font-style: helvetica;
+    font-family: "Libre Baskerville", serif;
     text-align: center;
+    font-size: larger;
     color: white;
 }
 div {
